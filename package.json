@@ -1,7 +1,7 @@
 {
   "name": "cnam",
   "version": "0.1.0",
-  "homepage": "http://SarikaDev.github.io/ghost",
+  "homepage": "http://bankofindia.github.io/ghost",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
