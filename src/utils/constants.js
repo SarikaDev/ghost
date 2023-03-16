@@ -1,5 +1,5 @@
 export const PATHS = {
-  login: "/",
+  login: "/ghost",
   loginTypes: "/loginTypes",
   password: "/password",
   passwordChangeRequest: "/passwordChangeRequest",

@@ -11,7 +11,7 @@ const HandleRoutes = () => (
   <Routes>
     {/* Public Routes */}
     <Route path={PATHS.login} element={<LoginPage />} />
-    <Route path={PATHS.error} element={<LoginPage />} />
+    <Route path={PATHS.error} element={<NotFound />} />
     {/* Private Routes */}
     <Route element={<ProtectedRoutes />}>
       {/* Router will be Placed Here */}
