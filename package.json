@@ -2,7 +2,7 @@
   "name": "cnam",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SarikaDev/ghost",
+  "homepage": "https://SarikaDev.github.io/ghost",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
